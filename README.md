@@ -1,4 +1,4 @@
-# Unit 1 Challenge: Code Refactor
+# Unit 2 Challenge: Portfolio webpage
 
 ## Description
 
