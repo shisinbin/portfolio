@@ -14,7 +14,11 @@ N/A
 
 ## Usage
 
-This webpage can be accessed and perused via a web browser. Included on the page are links that take the user to the corresponding place. The website should be responsive to differently sized screens. Screenshots of how it should look on a desktop is shown below.
+This webpage can be accessed and viewed through a web browser at the following address.
+
+https://shisinbin.github.io/portfolio/
+
+Included on the page are links that take the user to the corresponding place. The website should be responsive to differently sized screens. Screenshots of how it should look on a desktop is shown below.
 
 ![screenshot of webpage](images/ss1.png)
 
