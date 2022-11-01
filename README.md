@@ -6,7 +6,7 @@ A web development portfolio webpage, with some information about myself and some
 
 The intention behind the webpage is to showcase my Web Dev skills.
 
-In working on this portfolio, I practised and developed using CSS flexbox and grid towards a goal.
+In working on this portfolio, I practised and developed using both CSS flexbox and CSS grid.
 
 ## Installation
 
